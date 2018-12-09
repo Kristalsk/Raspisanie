@@ -32,4 +32,8 @@ object DataModule6: TDataModule6
     Left = 192
     Top = 152
   end
+  object ilBtnIcons: TImageList
+    Left = 192
+    Top = 80
+  end
 end

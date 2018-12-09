@@ -101,17 +101,21 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="..\Main.pas">
-            <Form>Form5</Form>
+        <DCCReference Include="Main.pas">
+            <Form>MainForm</Form>
             <FormType>dfm</FormType>
         </DCCReference>
-        <DCCReference Include="..\DataModule.pas">
+        <DCCReference Include="DataModule.pas">
             <Form>DataModule6</Form>
             <FormType>dfm</FormType>
             <DesignClass>TDataModule</DesignClass>
         </DCCReference>
         <DCCReference Include="sprav_dolzh.pas">
-            <Form>Form1</Form>
+            <Form>sprav_dolzhn</Form>
+            <FormType>dfm</FormType>
+        </DCCReference>
+        <DCCReference Include="Modal.pas">
+            <Form>frModal</Form>
             <FormType>dfm</FormType>
         </DCCReference>
         <BuildConfiguration Include="Release">

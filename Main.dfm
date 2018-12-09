@@ -1,8 +1,8 @@
-object Form5: TForm5
+object MainForm: TMainForm
   Left = 0
   Top = 0
   Caption = #1056#1072#1089#1087#1080#1089#1072#1085#1080#1077
-  ClientHeight = 353
+  ClientHeight = 333
   ClientWidth = 517
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -10,17 +10,19 @@ object Form5: TForm5
   Font.Height = -11
   Font.Name = 'Tahoma'
   Font.Style = []
+  FormStyle = fsMDIForm
   Menu = MainMenu1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
   object MainMenu1: TMainMenu
-    Left = 24
-    Top = 24
+    Left = 72
+    Top = 80
     object N1: TMenuItem
       Caption = #1042#1077#1076#1077#1085#1080#1077' '#1053#1057#1048
       object N2: TMenuItem
         Caption = #1050#1083#1072#1089#1089#1080#1092#1080#1082#1072#1090#1086#1088' '#1076#1086#1083#1078#1085#1086#1089#1090#1077#1081
+        OnClick = N2Click
       end
     end
   end

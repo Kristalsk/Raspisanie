@@ -1,25 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.623,=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.919,=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,C:\Raspis\dolzh_sprav.dfm=C:\Raspis\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\DataModule.pas=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,C:\Raspis\sprav_dolzh.pas=C:\Raspis\dolzh_sprav.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.194,C:\Raspis\Raspis.dproj=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Raspis.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,C:\Raspis\Raspisanie\sprav_dolzh.pas=C:\Raspis\sprav_dolzh.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Raspis\Raspisanie\DataModule.pas=C:\Raspis\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,C:\Raspis\Raspisanie\Main.pas=C:\Raspis\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,C:\Raspis\dolzh_sprav.pas=C:\Raspis\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.467,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Raspis.dproj</Transaction>
-    <Transaction>2018.12.08 13:31:09.922,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\DataModule.pas=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
-    <Transaction>2018.12.08 13:31:09.922,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\DataModule.dfm=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
-    <Transaction>2018.12.08 13:31:20.402,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
-    <Transaction>2018.12.08 13:31:20.402,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
-    <Transaction>2018.12.08 14:10:51.194,C:\Raspis\Raspis.dproj=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Raspis.dproj</Transaction>
-    <Transaction>2018.12.08 14:32:19.312,C:\Raspis\Main.pas=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
-    <Transaction>2018.12.08 14:32:19.323,C:\Raspis\Main.dfm=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
-    <Transaction>2018.12.08 14:32:51.382,C:\Raspis\DataModule.dfm=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\DataModule.dfm</Transaction>
-    <Transaction>2018.12.08 14:32:51.382,C:\Raspis\DataModule.pas=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\DataModule.pas</Transaction>
-    <Transaction>2018.12.08 14:36:22.473,=C:\Raspis\Unit1.pas</Transaction>
-    <Transaction>2018.12.08 14:40:17.254,C:\Raspis\dolzh_sprav.pas=C:\Raspis\Unit1.pas</Transaction>
-    <Transaction>2018.12.08 14:40:17.254,C:\Raspis\dolzh_sprav.dfm=C:\Raspis\Unit1.dfm</Transaction>
-    <Transaction>2018.12.08 14:40:37.941,C:\Raspis\sprav_dolzh.dfm=C:\Raspis\dolzh_sprav.dfm</Transaction>
-    <Transaction>2018.12.08 14:40:37.941,C:\Raspis\sprav_dolzh.pas=C:\Raspis\dolzh_sprav.pas</Transaction>
-    <Transaction>2018.12.08 15:03:09.616,C:\Raspis\Raspisanie\sprav_dolzh.pas=C:\Raspis\sprav_dolzh.pas</Transaction>
-    <Transaction>2018.12.08 15:03:09.616,C:\Raspis\Raspisanie\sprav_dolzh.dfm=C:\Raspis\sprav_dolzh.dfm</Transaction>
-    <Transaction>2018.12.08 15:03:18.601,C:\Raspis\Raspisanie\Raspis.dproj=C:\Raspis\Raspis.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.473,=C:\Raspis\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.919,=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,C:\Raspis\DataModule.pas=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\DataModule.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Raspis\Raspisanie\DataModule.dfm=C:\Raspis\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,C:\Users\Комар\Documents\Embarcadero\Studio\Projects\DataModule.dfm=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,C:\Raspis\Raspisanie\Main.dfm=C:\Raspis\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,C:\Raspis\Raspisanie\Raspis.dproj=C:\Raspis\Raspis.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,C:\Raspis\DataModule.dfm=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\DataModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Raspis\Main.dfm=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.616,C:\Raspis\Raspisanie\sprav_dolzh.dfm=C:\Raspis\sprav_dolzh.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,C:\Raspis\Main.pas=C:\Users\Комар\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,C:\Raspis\sprav_dolzh.dfm=C:\Raspis\dolzh_sprav.dfm</Transaction>
+    <Transaction>2018.12.09 17:58:47.410,=C:\Raspis\Raspisanie\Unit1.pas</Transaction>
+    <Transaction>2018.12.09 18:00:46.463,C:\Raspis\Raspisanie\Modal.pas=C:\Raspis\Raspisanie\Unit1.pas</Transaction>
+    <Transaction>2018.12.09 18:00:46.464,C:\Raspis\Raspisanie\Modal.dfm=C:\Raspis\Raspisanie\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>

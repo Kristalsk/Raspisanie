@@ -1,0 +1,60 @@
+object sprav_dolzhn: Tsprav_dolzhn
+  Left = 0
+  Top = 0
+  BorderStyle = bsDialog
+  Caption = #1057#1087#1088#1072#1074#1086#1095#1085#1080#1082' '#1076#1086#1083#1078#1085#1086#1089#1090#1077#1081
+  ClientHeight = 321
+  ClientWidth = 458
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsMDIChild
+  OldCreateOrder = False
+  Visible = True
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 458
+    Height = 33
+    Align = alTop
+    TabOrder = 0
+    object DBNavigator1: TDBNavigator
+      Left = 1
+      Top = 1
+      Width = 240
+      Height = 31
+      DataSource = DataSource1
+      Align = alLeft
+      TabOrder = 0
+    end
+  end
+  object DBGridEh1: TDBGridEh
+    Left = 0
+    Top = 33
+    Width = 458
+    Height = 288
+    Align = alClient
+    DataSource = DataSource1
+    DynProps = <>
+    TabOrder = 1
+    object RowDetailData: TRowDetailPanelControlEh
+    end
+  end
+  object FDQuery1: TFDQuery
+    Connection = DataModule6.MainConnection
+    Transaction = DataModule6.trRead
+    SQL.Strings = (
+      'select kod, name from dolzhnost')
+    Left = 328
+    Top = 248
+  end
+  object DataSource1: TDataSource
+    Left = 312
+    Top = 160
+  end
+end
